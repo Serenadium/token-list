@@ -77123,6 +77123,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2JrrpSDzVC76GJDiA4KqGRcuYwNbqt8CnQcY6SLuapVB",
+      "symbol": "BYC",
+      "name": "Baby Yoda Coin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/Serenadium/BabyYodaCoin/main/Logo.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
